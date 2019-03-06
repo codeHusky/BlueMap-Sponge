@@ -7,7 +7,7 @@ BlueMap is a minecraft mapping tool that creates 3D models of your Minecraft wor
 ## Clone
 Easy:
 
-`git clone --recursive https://github.com/BlueMap-Minecraft/BlueMap.git`
+`git clone --recursive https://github.com/BlueMap-Minecraft/BlueMap-Sponge.git`
 
 ## Build
 In order to build BlueMapSponge you simply need to run the `./gradlew build` command.
@@ -18,5 +18,5 @@ This should be as simple as putting the plugin jar in the `mods` folder of your 
 Then you can open `http://<server-ip>:8100/` in your browser to view the map!
 
 ## Contributing
-You are welcome to contribute!  
+You are welcome to contribute!
 Just create a pull request with your changes :)
