@@ -1,0 +1,6 @@
+rootProject.name = 'BlueMapSponge'
+
+include 'BlueMap'
+
+//include ':BlueMap'
+//project(':BlueMap').projectDir = new File(settingsDir, '../BlueMap')
